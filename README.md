@@ -25,8 +25,7 @@ This is my submission of the QR code component challenge. Within this challenge 
 ### Links
 
 - Solution URL: [Github](https://github.com/Danielle73/QR-component-solution)
-- Live Site URL: [Github](https://github.com/Danielle73/QR-component-solution)
-
+- Live Site URL: [vercel](https://qr-component-solution.vercel.app/)
 ## My process
 
 ### Built with
